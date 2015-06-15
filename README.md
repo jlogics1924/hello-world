@@ -1,2 +1,2 @@
 # hello-world
-Running through github tutorial
+Hello my name is Jamal Thorne.
